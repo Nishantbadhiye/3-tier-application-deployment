@@ -133,9 +133,4 @@ Go to EC2 console, access security group section and delete security groups crea
 - Ensure your code adheres to the project's style and contribution guidelines.
 - Submit a Pull Request with a detailed description of your changes.
 
-## Rewards
-- Successful PR merges will be eligible for exciting prizes!
 
-
----
-Happy Learning! 🚀👨‍💻👩‍💻
