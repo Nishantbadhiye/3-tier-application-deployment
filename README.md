@@ -136,8 +136,6 @@ Go to EC2 console, access security group section and delete security groups crea
 ## Rewards
 - Successful PR merges will be eligible for exciting prizes!
 
-## Support
-For any queries or issues, please open an issue in the repository.
 
 ---
 Happy Learning! 🚀👨‍💻👩‍💻
